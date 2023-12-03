@@ -1,0 +1,2 @@
+# ChekNumLoc
+Локальная версия ChekNum
